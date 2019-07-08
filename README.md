@@ -13,7 +13,7 @@ Do not forget to replace `http://127.0.0.1/wordpress/` in sql dump file with you
 
 In directory with your WordPress, type in terminal 
 
-    $ git clone https://github.com/lukaszzh/apartament.git .
+    $ git clone https://github.com/Asqan/apartament.git .
 
 ### Admin access
 Username: Karol
@@ -21,7 +21,7 @@ Username: Karol
 Password: LHHPhEj#RRergYXQbZ8rdI%8
 
 ### Useful links
-Link to github: https://github.com/lukaszzh/apartament 
+Link to github: https://github.com/Asqan/apartament 
 >
 Link to contact form on github : https://github.com/lukaszzh/apartament/tree/Contact-form/wp-content/plugins/contact-form
 >
